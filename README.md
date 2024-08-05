@@ -1,10 +1,10 @@
 # Project Name
 
-![GitHub issues](https://img.shields.io/github/issues/kyndryl-open-source/project-template)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kyndryl-open-source/project-template)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/kyndryl-open-source/project-templates)
-![GitHub top language](https://img.shields.io/github/languages/top/kyndryl-open-source/project-template)
-![GitHub contributors](https://img.shields.io/github/contributors/kyndryl-open-source/project-template)
+![GitHub issues](https://img.shields.io/github/issues/kyndryl-open-source/kyndryl-template)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kyndryl-open-source/kyndryl-template)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/kyndryl-open-source/kyndryl-templates)
+![GitHub top language](https://img.shields.io/github/languages/top/kyndryl-open-source/kyndryl-template)
+![GitHub contributors](https://img.shields.io/github/contributors/kyndryl-open-source/kyndryl-template)
 
 A brief description of the project.
 
